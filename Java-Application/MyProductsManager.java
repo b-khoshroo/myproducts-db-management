@@ -22,8 +22,8 @@ public class project_app {
     // Database credentials
     final static String HOSTNAME = "moha0007-sql-server.database.windows.net";
     final static String DBNAME = "cs-dsa-4513-sql-db";
-    final static String USERNAME = "moha0007";
-    final static String PASSWORD = "Shailyn.2019";
+    final static String USERNAME = "-----";
+    final static String PASSWORD = "-----";
 
     // Database connection string
     final static String URL = String.format("jdbc:sqlserver://%s:1433;database=%s;user=%s;password=%s;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;",
