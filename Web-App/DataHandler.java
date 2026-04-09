@@ -14,8 +14,8 @@ public class DataHandler {
     // Azure SQL connection credentials
     private String server = "moha0007-sql-server.database.windows.net";
     private String database = "cs-dsa-4513-sql-db";
-    private String username = "moha0007";
-    private String password = "Shailyn.2019";
+    private String username = "YOUR_USERNAME_PLACEHOLDER";
+    private String password = "YOUR_PASSWORD_PLACEHOLDER";
 
     // Resulting connection string
     final private String url =
