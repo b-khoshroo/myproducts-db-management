@@ -46,3 +46,9 @@ The project was executed through seven distinct phases:
 * <b>Database</b>: Azure SQL Database.
 * <b>Languages</b>: SQL (Transact-SQL), Java (JDBC), JSP, HTML.
 * <b>Environment</b>: Distributed online environment
+
+## 📂 Documentation & Design 
+The `/Docs` folder contains the full technical specification for this project, including:
+* **Conceptual Modeling:** Full Entity-Relationship (ER) diagrams and business rule justifications.
+* **Physical Design:** Analysis of storage structures and indexing strategies for Azure SQL.
+* **Testing & Validation:** Comprehensive screenshots showing successful execution of all 18 Java operations and Web Interface queries.
