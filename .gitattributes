@@ -1,0 +1,11 @@
+# Ignore Java and other compiled/overhead files from stats
+*.java linguist-vendored
+*.jar linguist-vendored
+*.class linguist-vendored
+
+# If you have XML or project metadata files (like from NetBeans or Eclipse)
+*.xml linguist-vendored
+*.properties linguist-vendored
+
+# Explicitly ensure T-SQL or SQL is tracked as the main language
+*.sql linguist-detectable=true
