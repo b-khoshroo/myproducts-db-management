@@ -21,6 +21,9 @@ The project was executed through seven distinct phases:
 
 <b>1. Database Design & Modeling</b>
 * <b>Conceptual Design</b>: Created a comprehensive ER Diagram to represent all entities and their relationships.
+
+![ER Diagram](DOCS/ER_Diagram_1.jpg)
+
 * <b>Logical Design</b>: Developed a relational schema and a Schema Diagram mapping all foreign key dependencies.
 
 <b>2. Storage & Performance Optimization</b>
