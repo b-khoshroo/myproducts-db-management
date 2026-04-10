@@ -26,8 +26,9 @@ The project was executed through seven distinct phases:
 ![ER Diagram](DOCS/ER_Diagram_img_2.jpg)
 
 * <b>Logical Design</b>: Developed a relational schema and a Schema Diagram mapping all foreign key dependencies.
-
+<br></br>
 ![ER Diagram](DOCS/Relational_Schema_img.jpg)
+<br></br>
 
 <b>2. Storage & Performance Optimization</b>
 * <b>Storage Analysis</b>: Evaluated appropriate file organizations (e.g., B+ Trees, Hashing) by analyzing query frequencies, such as high-volume worker product retrievals (2,000/day).
